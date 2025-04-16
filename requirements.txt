@@ -1,0 +1,15 @@
+streamlit
+openai-whisper
+gtts
+googletrans==4.0.0-rc1
+SpeechRecognition
+pydub
+ffmpeg-python
+numpy
+tempfile
+moviepy
+torch
+langdetect
+requests
+Pillow
+
